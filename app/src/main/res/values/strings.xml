@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ServicioTecnicoApp</string>
+    <string name="spinner_status_description">Selecciona el estado del servicio</string>
+</resources>
